@@ -1,5 +1,6 @@
 # UAS-PBO
 Aplikasi Desktop Pemesanan Tiket Bioskop
+
 Aplikasi Desktop ini dibangun menggunakan bahasa pemrograman JAVA dengan Framework JAVAFX, dan menggunakan database mysql bernama pemesanan_tiket_bioskop.sql
 Kami menggunakan: 
 - Apache Netbeans IDE 24
